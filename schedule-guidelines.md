@@ -20,19 +20,14 @@ If you don't have a video you can just say: go checkout JQuery or javascript giv
 
 **7:00-9:00** This tends to be pretty open and depending on the class you are working with you can parse this time differently, this of course also goes for the rest of the schedule but this part in particular we ran with two general concepts:
 
-1. Review video and possibly code along, although again IMHO its
-better to let them loose on a project in groups, make them
-struggle a bit...
-a. walk through code that was in video
-b. address any questions that came up through the process
-b. mob the process to finish a small project, pushed to git
+1. Review video and possibly code along, 
+  1. walk through code that was in video
+  2. address any questions that came up through the process
+  3. mob the process to finish a small project, pushed to git
 
 2. From the referenced material mob in 3 and up
-a. time limit is key, setting 5 mins this goes for the JS
-   exercises as well.
-b. build from the ground up, some project
-c. p5 was good for this because you could focus on a simple
-   project and expand the modularity in the artistic frame
+  1. time limit is key, setting 5 mins this goes for the JS exercises as well.
+  2. build from the ground up, some project p5 was good for this because you could focus on a simple project and expand the modularity in the artistic frame
 
 ## Thursday
 
