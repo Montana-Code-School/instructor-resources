@@ -2,8 +2,6 @@
 
   - [InterView Practice](https://github.com/Montana-Code-School/interview-practice)
 
-  - [Great List of Questions]()
-
   - [Some stuff Cohort 1 put together](https://docs.google.com/document/d/1V3l-7ZPNrYdLhZQiWyHDgVMSuThiTwx6d5p43BuQ4lw/edit)
 
 ### Interview Questions
