@@ -14,4 +14,4 @@ It follows a general guiding principle:
 | Packaged tasks from | Ready to start | Working on tasks | Tasks that are | Tasks that are |
 | start to finish | tasks | currently assigned | ready to test | completed |
 
-You can vary this system quite a bit but the basic idea is to modularize tasks and to communicate an overall sense of accomplishment that belies the underlying complexity of the entire project.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can vary this system quite a bit but the basic idea is to modularize tasks and to communicate an overall sense of accomplishment that belies the underlying complexity of the entire project.

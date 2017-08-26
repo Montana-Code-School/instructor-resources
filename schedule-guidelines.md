@@ -1,14 +1,14 @@
 # Tips for Part-time Class Weeks
 
-Here is the schedule that we began to fall into during the Summer 2016 part-time cohort. In no way are these firm guidelines, and I'd definitely encourage listening to the students over listening to us.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here is the schedule that we began to fall into during the Summer 2016 part-time cohort. In no way are these firm guidelines, and I'd definitely encourage listening to the students over listening to us.
 
-One of the biggest issues that students have early on is coping with a lack of structure. Some students are better equipped for that, so listen to them and ask them what they think of the class structure during the weekly retrospectives.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One of the biggest issues that students have early on is coping with a lack of structure. Some students are better equipped for that, so listen to them and ask them what they think of the class structure during the weekly retrospectives.
 
 ## Weekend
 
-If the concepts you are introducing have many steps or are very difficult for some students, it has been helpful to create a short video. In general, long videos work fine, usually between 30 minutes to 2 hours. It doesn't have to be polished or refined, and especially earlier on, it helps students defeat the myth that you know everything. Let them see your mistakes and your backtracking.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the concepts you are introducing have many steps or are very difficult for some students, it has been helpful to create a short video. In general, long videos work fine, usually between 30 minutes to 2 hours. It doesn't have to be polished or refined, and especially earlier on, it helps students defeat the myth that you know everything. Let them see your mistakes and your backtracking.
 
-If you don't have a video you can just say: go checkout JQuery or JavaScript give them some MDN links.  I actually prefer this method, it encourages the RTFM way of approaching a problem and gets away from hand holding, but in the beginning there is a lot of fear and you need to guide them very specifically and with a lot of flashpoints.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you don't have a video you can just say: go checkout JQuery or JavaScript give them some MDN links.  I actually prefer this method, it encourages the RTFM way of approaching a problem and gets away from hand holding, but in the beginning there is a lot of fear and you need to guide them very specifically and with a lot of flashpoints.
 
 
 ## Tuesday
