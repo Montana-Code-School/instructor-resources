@@ -8,6 +8,7 @@
     - [Thoughts on teaching](#thoughts-on-teaching)
     - [Metacognition](./metacognition.md)
   - [Schedule Guidelines for Part Time](./schedule-guidelines.md)
+    - [First Days](#start-up-resources)
   - [Agile](./agile.md)
   - [Open Space](./open-space.md)
   - [Heroku](./heroku.md)
@@ -62,3 +63,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For this to work fluidly there has to be some level of chaos, with a concrete syllabus or curriculum the information becomes stale quickly, but with a living classroom, one that defines itself from within and conversely lets the students define themselves from within the environment is made and protected by those that make it.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are same downsides of course. The most obvious being fear and confusion. This is especially relevant during the initial  and during the terminal stages when the students feel they are leaving the space and re-entering a world that still defines itself in terms of the robust, hierarchical and didactic.
+
+#### <a name="start-up-resources"></a> For the first days
+
+[Pre-work Assignment](./prework-assignment.md)
+[Environment Setup Repo](https://github.com/Montana-Code-School/Setup-Prework)
+
+Google Forms Links
+
+[Pre-work Assignment](https://docs.google.com/forms/d/1oEXi6ii6j-4qIGFJw6Aa1UcGYNy182CVgQxjOD0OfDc/edit?usp=sharing)
+[General Information Survey Edit Link](https://docs.google.com/forms/d/1LE7epusyfX12dtzjkbZ6Q5VgvVsBtj6Jd48QBV8ZAVI/edit?usp=sharing)
